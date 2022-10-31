@@ -6,7 +6,4 @@ hello SeaWatch! hello git!
 hello SeaWatch! hello git!
 hello SeaWatch! hello git!
 hello SeaWatch! hello git!
-hello SeaWatch! hello git!
-hello SeaWatch! hello git!
-66666666666666666666666666666666666666666
-seawatch by good
+seawatch拉取代码修改后提交
